@@ -22,6 +22,11 @@
 ## CNN + LSTM
 <img width="1230" alt="무제4" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/d2646983-2d3b-4426-911d-35d568945634">
 
+- 행동이 발생되는 구간의 프레임만 추출 및 크기조정, 흑백 변환
+- 배열 변환, 정규화 후 시퀀스를 구성
+- 일정 부분의 프레임이 겹치도록 시퀀스 구성
+- 데이터 증강을 통해 모델 일반화 및 CNN을 통해 공간적 특징 추출
+
 ## WEB
 <img width="1226" alt="무제7" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/381aee17-dfc1-4468-bb4f-ad79abd7a3d5">
 
