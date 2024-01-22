@@ -4,13 +4,13 @@
 - 이상행동 감지시 알림톡을 통해 문자 전송
 
 ---
-## Subject
+## 🗒️Subject
 <img width="1048" alt="무제10" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/c652e1ff-4709-4ad0-8159-572ecdfe9163">
 
-## purpose
+## 📌purpose
 <img width="765" alt="무제11" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/7f1fe399-4a73-42b3-aa11-30850d6413b9">
 
-## workflow
+## 📝workflow
 <img width="890" alt="무제12" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/abe56a99-626a-4a0f-afba-ae34bc54b434">
 
 
@@ -37,10 +37,10 @@
 - Django를 이용해 web page구현
 - 원본 영상과 시연영상을 비교할수 있도록 모달을 이용해 비교영상 구현
 
-## Purpose attainment
+## 📌Purpose attainment
 <img width="1221" alt="무제8" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/874ed7bf-6b84-46de-90c0-c453de8c5fcf">
 
-## Documents
+## 🗂️Documents
 <img width="1233" alt="무제9" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/40da03e0-fd90-48de-8e82-09d57413b1bf">
 
 
