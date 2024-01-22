@@ -4,11 +4,15 @@
 - 이상행동 감지시 알림톡을 통해 문자 전송
 
 ---
+## Subject
+<img width="1048" alt="무제10" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/c652e1ff-4709-4ad0-8159-572ecdfe9163">
+
 ## purpose
-<img width="1228" alt="무제" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/66e8c8b4-ebbd-4b51-886e-8915e028f172">
+<img width="765" alt="무제11" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/7f1fe399-4a73-42b3-aa11-30850d6413b9">
 
 ## workflow
-<img width="1228" alt="무제1" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/073b6df9-a3cb-4998-a215-4166f8f93556">
+<img width="890" alt="무제12" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/abe56a99-626a-4a0f-afba-ae34bc54b434">
+
 
 ## 2D CNN
 <img width="1227" alt="무제2" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/d8c31afa-e40d-4ada-9da2-4dad042f5882">
