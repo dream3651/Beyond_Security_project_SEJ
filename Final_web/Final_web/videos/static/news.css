@@ -1,0 +1,150 @@
+.navbar{
+    padding: 25px 16px;
+
+    a{
+        text-decoration: none;
+        margin-bottom: 0;
+        font-family: 'Permanent Marker', cursive;
+        font-weight: 900;
+        font-size: 25px;
+        margin-right: auto;
+        color: black;
+    }
+}
+
+
+
+.news-container{
+    width: 100%;
+    position: relative;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100vw !important;
+    min-height: 85vh !important;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(125,125,125,1) 0%, rgba(255,255,255,1) 100%);
+
+    .news1{
+        position: absolute;
+        top: 9%;
+        left: 15%;
+        z-index: 10;
+
+        img{
+            width: 250px;
+            height: 200px;
+        }
+    }
+
+
+    .news2{
+        position: absolute;
+        top: 13%;
+        right: 14%;
+        z-index: 10;
+
+        img{
+            width: 250px;
+            height: 200px;
+        }
+    }
+
+    .news3{
+        position: absolute;
+        bottom: 14%;
+        right: 17%;
+        z-index: 10;
+
+        img{
+            width: 250px;
+            height: 200px;
+        }
+    }
+
+    .news4{
+        position: absolute;
+        bottom: 13%;
+        left: 14%;
+        z-index: 10;
+
+        img{
+            width: 250px;
+            height: 200px;
+        }
+    }
+
+    .line1{
+        position: absolute;
+        top: 34%;
+        left: 25%;
+        transform: rotate(23deg);
+
+        display: inline-block;
+        background: black;
+        width: 345px;
+        height: 3px;
+        opacity: 0.3;
+    }
+
+    .line2{
+        position: absolute;
+        top: 35%;
+        right: 25%;
+        transform: rotate(-24deg);
+
+        display: inline-block;
+        background: black;
+        width: 392px;
+        height: 3px;
+        opacity: 0.3;
+    }
+
+    .line4{
+        position: absolute;
+        bottom: 37%;
+        left: 26%;
+        transform: rotate(-26deg);
+
+        display: inline-block;
+        background: black;
+        width: 392px;
+        height: 3px;
+        opacity: 0.3;
+    }
+
+    .line3{
+        position: absolute;
+        bottom: 38%;
+        right: 27%;
+        transform: rotate(25deg);
+        display: inline-block;
+        background: black;
+        width: 392px;
+        height: 3px;
+        opacity: 0.3;
+    }
+
+
+    .main-bg{
+        position: absolute;
+        top: 46%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 350px;
+        height: 350px;
+        border-radius: 100%;
+    }
+
+}
+
+.about{
+    text-align: center;
+    margin-top:10px;
+
+    span{
+        color: grey;
+    }
+}
+
+body{
+    margin: 0px;
+}
