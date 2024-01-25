@@ -20,8 +20,8 @@
 - 동영상 파일내 이상행동 구간만 프레임으로 나눔
 - 프레임으로 나눠진 이미지 크기를 조정하고 배열 변환 및 정규화
 - 2D_CNN을 이용해 이미지내 특징 학습
-- 배경을 제외한 사람의 형상만 학습시키기 위해 media-pipe를 이용, 관절 부분 keypoint 추출  
-- keypont 이용해 이미지로 학습
+- 배경을 제외한 사람의 형상만 학습시키기 위해 media-pipe를 이용해 사람형상만 추출
+- 이후 관절 부분 keypoint 뽑아낸뒤 이미지로 변환하여 모델 학습
 
 ## CNN + LSTM
 <img width="1230" alt="무제4" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/d2646983-2d3b-4426-911d-35d568945634">
