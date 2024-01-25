@@ -16,6 +16,9 @@
 ## 📝 workflow
 <img width="890" alt="무제12" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/abe56a99-626a-4a0f-afba-ae34bc54b434">
 
+- 매장내 이상행동에 대한 데이터 수집 및 전처리
+- 다양한 알고리즘으로 모델 생성후, 성능 비교 평가하여 최종 모델 선정
+- 웹 페이지 통해 CCTV데이터에서 행동 탐지 및 분석, 사용자에게 웹 페이지 상에서 서비스 제공
 
 ## 2D CNN
 <img width="1227" alt="무제2" src="https://github.com/Hoon-Code/face_recognization_project/assets/145303974/d8c31afa-e40d-4ada-9da2-4dad042f5882">
