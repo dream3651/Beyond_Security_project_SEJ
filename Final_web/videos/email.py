@@ -11,7 +11,7 @@ def send_email(last_email_time):
 
     # 이메일 설정
     gmail_user = 'sej365@gmail.com'
-    gmail_password = 'tecc xhwj rrxy dvxf'
+    gmail_password = ''
     sent_from = gmail_user
     to = ['eun_ju_son@naver.com']
     subject = '이상행동 감지'
